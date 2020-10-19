@@ -1,86 +1,57 @@
 {
   "main": {
-    "name":"Tim Baker",
-    "occupation":"(Your Occupation Here)",
-    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "name":"Ihsan Rawi",
+    "occupation":"Software Engineer",
+    "description":"Fullstack Software Engineer by day, self learner at night.",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "bio":"I'm a software engineer with 3 years experience developing business critical application in Banking and Distribution Management Systems. A self thought ReactJS developer with hunger for knowledge. Previously, I had work for Accenture as fullstack ASP.Net developer and had experience working with hybrid mobile apps development, reporting services and database optimisation. ",
+    "contactmessage":"Think I'd be a good fit for your team? I'd love to hear from you, give me a shout by email or by using the form below if you'd like to get in contact with me.",
+    "email": "rawiihsan@gmail.com",
+    "phone": "+44 775 1566 067",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street":"Ramsgate Road",
+      "city":"Margate",
+      "state":"UK",
+      "zip": "CRT9 5RT"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "resumedownload":"https://drive.google.com/file/d/1yDmBjLGE3qaA0ycLP-m8qJyM6a5dCTBg/view?usp=sharing",
     "social":[
       {
-        "name":"facebook",
-        "url":"http://facebook.com/tim.baker.906",
-        "className":"fa fa-facebook"
-      },
-      {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
-      {
-        "name":"google-plus",
-        "url":"http://googleplus.com/tbakerx",
-        "className":"fa fa-google-plus"
-      },
-      {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/ihsanrawi/",
         "className":"fa fa-linkedin"
       },
       {
-        "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
-        "className":"fa fa-instagram"
-      },
-      {
         "name":"github",
-        "url":"http://github.com/tbakerx",
+        "url":"https://github.com/ihsanrawi",
         "className":"fa fa-github"
-      },
-      {
-        "name":"skype",
-        "url":"http://skype.com",
-        "className":"fa fa-skype"
       }
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"I always improving my skills and interested in testing around with new technologies but these are the ones that have really won me over",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
-      },
-      {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"University of Nottingham Malaysia Campus",
+        "degree":"BSc. Software Engineering",
+        "graduated":"May 2017",
+        "description":"Graduated with 2:1."
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Accenture ",
+        "title":"Application Development Analyst ",
+        "years":"October 2018 - September 2020",
+        "location": "Kelana Jaya, Malaysia",
+        "description":"I was assign to Accenture subsidiary company Newspage which specialized in Distribution Management System application as Full stack ASP.Net developer. I had involved in all parts of the system including their proprietary hybrid mobile application, reporting service, database optimization and deployment. \n\nI was responsible for developing, deploying, mantaining and supporting this system to one of their client project team. I had also involved in internal project to develop the next version of their hybrid mobile application. \n\nSome highlight of my employment in Accenture Newspage, I had led a team of 3 for application server migration comprising 27 countries market environment"
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
+        "company":"Infopro Sdn. Bhd.",
+        "title":"System Engineer",
+        "years":"October 2017 - September 2018",
+        "location": "Petaling Jaya, Malaysia",
         "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
       }
     ],
@@ -128,24 +99,6 @@
         "category":"(offline now) A fighting gear company I started",
         "image":"fury-fighting-gear.jpg",
         "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
       }
     ]
   },
@@ -156,7 +109,7 @@
         "user":"Kareem Abdul Jabbar"
       },
       {
-        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "text":"That Ihsan Rawi must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
         "user":"Steve Wozniak... impersonator"
       }
     ]
