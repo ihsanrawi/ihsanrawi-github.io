@@ -4,7 +4,7 @@
     "occupation":"Software Engineer",
     "description":"Fullstack Software Engineer by day, self learner at night.",
     "image":"profilepic.jpg",
-    "bio":"I'm a software engineer with 3 years experience developing business critical application in Banking and Distribution Management Systems. A self thought ReactJS developer with hunger for knowledge. Previously, I had work for Accenture as fullstack ASP.Net developer and had experience working with hybrid mobile apps development, reporting services and database optimisation. ",
+    "bio":"A Software Developer with 3 years’ experience looking for opportunity to share his expertise and knowledge. Experienced in developing and supporting business critical applications ranging from web application, database optimization, reporting service and mobile application with a determine and can-do attitude and work great in a team or independently. I am willing to learn and a fast learner. Have experience using ASP .NET framework, NodeJS, Microsoft SQL Server, Java, Spring, Hibernate, ReactJS, React Native.",
     "contactmessage":"Think I'd be a good fit for your team? I'd love to hear from you, give me a shout by email or by using the form below if you'd like to get in contact with me.",
     "email": "rawiihsan@gmail.com",
     "phone": "+44 775 1566 067",
@@ -14,7 +14,7 @@
       "state":"UK",
       "zip": "CRT9 5RT"
     },
-    "website": "http://www.timbakerdev.com",
+    "website": "https://ihsanrawi.netlify.app/",
     "resumedownload":"https://drive.google.com/file/d/1yDmBjLGE3qaA0ycLP-m8qJyM6a5dCTBg/view?usp=sharing",
     "social":[
       {
@@ -45,14 +45,14 @@
         "title":"Application Development Analyst ",
         "years":"October 2018 - September 2020",
         "location": "Kelana Jaya, Malaysia",
-        "description":"I was assign to Accenture subsidiary company Newspage which specialized in Distribution Management System application as Full stack ASP.Net developer. I had involved in all parts of the system including their proprietary hybrid mobile application, reporting service, database optimization and deployment. \n\nI was responsible for developing, deploying, mantaining and supporting this system to one of their client project team. I had also involved in internal project to develop the next version of their hybrid mobile application. \n\nSome highlight of my employment in Accenture Newspage, I had led a team of 3 for application server migration comprising 27 countries market environment"
+        "description":"Develop and support a range of modules web application solutions in an agile delivery environment for Accenture Distribution Management System (DMS) supporting client in FMCG companies. \n\nProject Involved: Accenture Distribution Management System (DMS) \n\nSupporting Client: Reckitt Benckiser \n\nC# Programming Language, ASP.Net, SQL Server Reporting Service, SQL Server Integration Service, Microsoft SQL Server, IIS, JavaScript, NodeJS, CSS, Git \n\nResponsibilities: \n- Involved in designing and developing Change Request (CR) and bug fixing for Accenture DMS system across all components including web App, reporting service, mobile apps as well as Integration module. \n- Deal with client support ticketing based on the priority level and deliver fixes in a timely manner without breaking SLA solution time \n- Maintaining and improving current Database Management System: \n\t• SQL stored procedure performance tuning \n\t• Create day- end script for SQL Agent \n\t• Create SQL trigger \n\t• Create new SP script based on client’s requirements \n- Improve data generation on Report by performing data retrieval optimization. \n- Deploy fixes and CR to UAT and PROD and infra services upgrade. \n- Merge Change Request with current code base. \n\nKey achievement and contribution: \n• Involved in internal project of developing the next version of DMS hybrid mobile apps with development not having a delay with multiple teams across countries. \n• Successfully lead a team of 3 people for application server migration and framework setup comprising of 27 countries application environments."
       },
       {
         "company":"Infopro Sdn. Bhd.",
         "title":"System Engineer",
         "years":"October 2017 - September 2018",
         "location": "Petaling Jaya, Malaysia",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description":"Develop and support web application and mobile apps in a fintech industry for a client that provide financial solution to small companies. Throughout my employment here, I was in a team developing an agent monitoring tv application and onboarding web and mobile apps. \n\nProject Involved: Infopro Digital Banking Solution, Infopro dashboard application \n\nJava, JSP, JSF, Spring, Hibernate, PL-SQL, DojoJs, HTML5, SCSS, JavaScript, NodeJS, Git, GulpJ \n\nResponsibilities: \n- Develop a SPA web application using JavaScript, DojoJs library, SCSS and build Hybrid mobile apps using Cordova. \n- Develop Rest API to bridge between client and server side using Java, Spring and Hibernate frameworks \n- Support and fix application bugs found during QAT and UAT stage of development \n- Developed a Server-side application using JSP."
       }
     ],
     "skills":[
