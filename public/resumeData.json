@@ -87,13 +87,13 @@
       {
         "title":"Ihsan Rawi Portfolio Website",
         "category":"This very own website",
-        "image":"",
+        "image":"resume-website.jpg",
         "url":"https://ihsanrawi.netlify.app/"
       },
       {
         "title":"Neptune - Alternative Reddit Client",
         "category":"Alternative Reddit Client",
-        "image":"",
+        "image":"neptunee.jpg",
         "url":"http://neptunee.herokuapp.com/"
       }
     ]
