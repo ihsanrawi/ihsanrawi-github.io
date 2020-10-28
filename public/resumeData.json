@@ -33,7 +33,7 @@
     "skillmessage":"I always improving my skills and interested in testing around with new technologies but these are the ones that have really won me over",
     "education":[
       {
-        "school":"University of Nottingham Malaysia Campus",
+        "school":"University of Nottingham",
         "degree":"BSc. Software Engineering",
         "graduated":"May 2017",
         "description":"Graduated with 2:1."
@@ -58,7 +58,7 @@
     "skills":[
       {
         "name":"Git",
-        "level":"60%"
+        "level":"100%"
       },
       {
         "name":"Illustrator",
@@ -66,7 +66,7 @@
       },
       {
         "name":"ReactJs",
-        "level":"50%"
+        "level":"90%"
       },
       {
         "name":"CSS",
@@ -74,43 +74,39 @@
       },
       {
         "name":"HTML5",
-        "level":"80%"
-      },
-      {
-        "name":"VueJs",
-        "level":"50%"
+        "level":"90%"
       },
       {
         "name":"MongoDB",
-        "level":"80%"
+        "level":"60%"
       }
     ]
   },
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"Ihsan Rawi Portfolio Website",
+        "category":"This very own website",
+        "image":"",
+        "url":"https://ihsanrawi.netlify.app/"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Neptune - Alternative Reddit Client",
+        "category":"Alternative Reddit Client",
+        "image":"",
+        "url":"http://neptunee.herokuapp.com/"
       }
     ]
   },
   "testimonials":{
     "testimonials":[
       {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
+        "text":"Ihsan has a positive attitude and always shows interest on learning new things.",
+        "user":"Ruhaimi Habibollah - Application Analyst"
       },
       {
-        "text":"That Ihsan Rawi must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user":"Steve Wozniak... impersonator"
+        "text":"Good team player and very helpful.",
+        "user":"Sri Nursyafika - System Engineer"
       }
     ]
   }
