@@ -5,7 +5,7 @@
     "description":"Fullstack Software Engineer by day, self learner at night.",
     "image":"profilepic.jpg",
     "bio":"A Software Developer with 3 years’ experience looking for opportunity to share his expertise and knowledge. Experienced in developing and supporting business critical applications ranging from web application, database optimization, reporting service and mobile application with a determine and can-do attitude and work great in a team or independently. I am willing to learn and a fast learner. Have experience using ASP .NET framework, NodeJS, Microsoft SQL Server, Java, Spring, Hibernate, ReactJS, React Native.",
-    "contactmessage":"Think I'd be a good fit for your team? I'd love to hear from you, give me a shout by email or by using the form below if you'd like to get in contact with me.",
+    "contactmessage":"Think I'd be a good fit for your team? I'd love to hear from you, give me a shout by email if you'd like to get in contact with me.",
     "email": "rawiihsan@gmail.com",
     "phone": "+44 775 1566 067",
     "address":{
@@ -59,10 +59,6 @@
       {
         "name":"Git",
         "level":"100%"
-      },
-      {
-        "name":"Illustrator",
-        "level":"55%"
       },
       {
         "name":"ReactJs",
