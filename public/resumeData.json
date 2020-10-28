@@ -85,7 +85,7 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Ihsan Rawi Portfolio Website",
+        "title":"Portfolio Website",
         "category":"This very own website",
         "image":"resume-website.jpg",
         "url":"https://ihsanrawi.netlify.app/"
