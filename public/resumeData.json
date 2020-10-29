@@ -81,6 +81,12 @@
   "portfolio":{
     "projects": [
       {
+        "title":"Netflix Clone",
+        "category":"Netflix clone created using ReactJs",
+        "image":"netflix-clone.jpg",
+        "url":"http://neptunee.herokuapp.com/"
+      },
+      {
         "title":"Portfolio Website",
         "category":"This very own website",
         "image":"resume-website.jpg",
